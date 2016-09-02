@@ -10,7 +10,11 @@ public class Animal {
 		this.nomber = nomber;
 	}
 	
-	
+	@Override
+	public String toString() {
+		// TODO Auto-generated method stub
+		return super.toString();
+	}
 	
 
 }
